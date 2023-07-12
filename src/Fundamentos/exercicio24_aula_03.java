@@ -7,5 +7,4 @@ public class exercicio24_aula_03 {
 		String resultadoFinal = 3 + "palavra" + tres;
 		System.out.print(resultadoFinal);
 	}
-
 }
