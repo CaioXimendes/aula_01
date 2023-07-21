@@ -4,5 +4,5 @@
 /**
  * 
  */
-module turma_b_java {
+module javaCDD4 {
 }
